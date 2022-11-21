@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				511,
+				368
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "exploded"
+		},
+		{
+			"offsets": [
+				-55,
+				-311
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "deadloop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/BF_DIES",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		50,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
