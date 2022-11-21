@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				21690,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"BF"
+					]
+				]
+			],
+			[
+				21941.71875,
+				[
+					[
+						"Hey!",
+						"BF",
+						""
+					]
+				]
+			],
+			[
+				24510,
+				[
+					[
+						"Play Animation",
+						"explode",
+						"BF"
+					]
+				]
+			],
+			[
+				26100,
+				[
+					[
+						"Play Animation",
+						"explode-loop",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,66 @@
+{
+	"song": {
+		"events": [
+			[
+				14809.375,
+				[
+					[
+						"Dadbattle Spotlight",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				18465.625,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				22172.34375,
+				[
+					[
+						"Dadbattle Spotlight",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				25856.25,
+				[
+					[
+						"Dadbattle Spotlight",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				29550,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				35093.75,
+				[
+					[
+						"Dadbattle Spotlight",
+						"0",
+						""
+					]
+				]
+			]
+		]
+	}
+}
